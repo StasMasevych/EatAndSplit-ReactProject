@@ -6,4 +6,6 @@
 - JS
 - CSS
 
-<img width="971" alt="Screenshot 2023-08-03 at 19 04 57" src="https://github.com/StasMasevych/EatAndSplit-ReactProject/assets/109438310/e80f4b5f-2846-43b0-9a9f-02a4d15318a7">
+<img width="1025" alt="Screenshot 2023-08-03 at 19 11 42" src="https://github.com/StasMasevych/EatAndSplit-ReactProject/assets/109438310/29cf147a-c43e-4c75-95a9-50921c4a41ef">
+
+
