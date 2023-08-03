@@ -2,7 +2,7 @@
 
 ### Main tech stack
 
-- React (props, prop children, state, conditional rendering)
+- React (props, prop children, state, conditional rendering, handling form events)
 - JS
 - CSS
 
